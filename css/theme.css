@@ -1,0 +1,56 @@
+h1 {
+  text-align: center;
+  color: #fff;
+}
+
+body {
+  background-color: #0057e7;
+}
+
+#question {
+  margin: 10px auto;
+  width: 60%;
+}
+
+button.accor {
+  background-color: #fff;
+  color: #000;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  text-align: left;
+  border: none;
+  outline: none;
+  transition: 0.4s;
+}
+
+button.accor.active,
+button.accor:hover {
+  background-color: #ffffcc;
+}
+
+button.accor:after {
+  content: '\02795';
+  font-size: 13px;
+  color: #777;
+  float: right;
+  margin-left: 5px;
+}
+
+button.accor.active:after {
+  content: "\2796";
+}
+
+section.answer {
+  padding: 0 18px;
+  background-color: #ffff7f;
+  max-height: 0;
+  overflow: hidden;
+  transition: 0.6s ease-in-out;
+  opacity: 0;
+}
+
+section.answer.show {
+  opacity: 1;
+  max-height: 500px;
+}

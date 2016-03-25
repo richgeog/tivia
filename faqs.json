@@ -1,0 +1,39 @@
+{
+  "Info": [{
+    "Team": "Watford FC",
+    "Address": "Vicarage Road",
+    "faqs": [{
+      "id": 1,
+      "question": "What year was Watford FC formed?",
+      "answer": "1881"
+    }, {
+      "id": 2,
+      "question": "What year did Watford FC make the FA Cup final?",
+      "answer": "1984"
+    }, {
+      "id": 3,
+      "question": "Where do Watford play there home games?",
+      "answer": "Vicarage Road"
+    },  {
+      "id": 4,
+      "question": "What are the stands called?",
+      "answer": "Vicarage Road, Sir Elton John, Rookery, Sir Graham Taylor"
+    },  {
+      "id": 5,
+      "question": "What is the capacity of the stadium?",
+      "answer": "20,970"
+    },  {
+      "id": 6,
+      "question": "Who is thr current player of the season?",
+      "answer": "Troy Deeney"
+    },  {
+      "id": 7,
+      "question": "How many seasons have Watford FC been in the Premier League?",
+      "answer": "3"
+    }, {
+      "id": 8,
+      "question": "Who is Watford FC's famous ex owner?",
+      "answer": "Sir Elton John"
+    }]
+  }]
+}
